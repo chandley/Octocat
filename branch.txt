@@ -1,1 +1,1 @@
-Explain what a branch is, in your own words.
+A branch is a pointer to a series of changes, which is separate from the main master changes. Branches can be abandoned, or merged back into the master.
