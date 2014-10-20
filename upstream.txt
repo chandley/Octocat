@@ -1,1 +1,1 @@
-Explain what the upstream remote is usually used for, in your own words.
+The upsteam remote is a shared repository which changes are pulled from. Local changes should be uploaded as a branch to the upstream remote, for mergeing only after review.
